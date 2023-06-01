@@ -1,0 +1,6 @@
+flask
+pandas
+flask-bootstrap
+gunicorn
+scikit-learn
+joblib
